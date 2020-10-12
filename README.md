@@ -20,6 +20,8 @@
 ```
 git pull origin main
 ```
-![alt text][logo]
+# 10 
+     ![alt text][logo]
 
-[logo]: https://github.com/YaroslavNazarko/newlab/blob/main/Foxtrot.jpg "Git  lab 1"
+     [logo]: https://github.com/YaroslavNazarko/newlab/blob/main/Foxtrot.jpg "Git  lab 1"
+## P.S арт мій
